@@ -1,4 +1,8 @@
 body{
     background-image: url(./city/photos/pexels-photo-2411688.jpeg);
-    height: 100%;
+    background-repeat: no-repeat;
+    background-size:cover ;
+   
+      
+    
 }
