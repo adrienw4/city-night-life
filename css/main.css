@@ -1,0 +1,16 @@
+body {
+  background-image: url(../city/photos/pexels-photo-2411688.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  background-color: black;
+  max-height: 200px;
+  max-width: 800px;
+  color: white;
+  margin: auto;
+}
+
+/*# sourceMappingURL=main.css.map */
