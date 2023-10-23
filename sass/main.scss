@@ -1,3 +1,5 @@
+$black:#1E1F23;
+$galerie:#121315;
 
 
 
@@ -13,10 +15,22 @@ body{
 }
 h1{
     text-align: center;
-    background-color: black;
-    max-height: 200px;
-    max-width: 800px;
+    background-color:$black;
+    height: 70px;
+    width: 450px;
     color: white ;
     margin: auto;
-    
+    font-size:60px ;   
+}
+
+.container{
+
+.debut{
+    max-width: 1500px;
+    max-height: 600px;
+    justify-content: center;
+    display: flex;
+
+
+}
 }
